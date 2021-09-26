@@ -1,0 +1,14 @@
+{
+    "unnamed_cols" :[
+        {"id" : "0", "name" : "index"},
+        {"id" : "7", "name" : "unnamed01"},
+        {"id" : "17", "name" : "unnamed02"}
+    ],
+    
+    "common_col" :["index","groups"],
+
+    "split_col" : "groups",
+    "n_splits" : 10,     
+    "rand_stand" : 0,
+    "test_size" : 0.2
+}

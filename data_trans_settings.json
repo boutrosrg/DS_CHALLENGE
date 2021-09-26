@@ -1,0 +1,11 @@
+{
+    "targeted_dt_features" :["year", "month", "day", "dayofweek", "hour", "minute", "second"],
+    "indexing_cols" : ["index", "groups","target"],
+    "max_nan_threshold" : 0.5,
+    "max_uniques_factor" : 0.003,
+    "het_col" : "opened",
+    "imp_group_col" : "groups",
+    "imp_criteria" : "median",
+    "min_std_threshold" : 0.05,
+    "target_variable" : "target"
+}

@@ -1,0 +1,7 @@
+{
+	"path" : "./data/",
+	"raw_data_file" : "md_raw_dataset.csv",
+	"target_data_file" : "md_target_dataset.csv",
+	"csv_header" : "infer",
+	"separator" : ";"
+}
