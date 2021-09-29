@@ -69,17 +69,6 @@ JSON files on root directory. The JSON files are classified by name as follows:
 3- data_trans_settings.JSON for DS_CHALLENGE_Data_Transformation.DataTransformation 
 
 
-===========
-Credentials
-===========
-
-__author__ = "Boutros El-Gamil"
-__copyright__ = "Copyright 2021"
-__version__ = "0.1"
-__maintainer__ = "Boutros El-Gamil"
-__email__ = "contact@data-automaton.com"
-__status__ = "Development" 
-
 
 
 
